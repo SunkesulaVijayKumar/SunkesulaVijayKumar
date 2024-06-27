@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunkesulavijaykumar
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on #developers as well as #coders 
+- 💞️ I’m looking to collaborate with #developers as well as #coders 
 - 📫 How to reach me ...2100040219ece@gmail.com 
 - 😄 Pronouns: ...vijay kumar
 - ⚡ Fun fact: ...learning in fun mood
